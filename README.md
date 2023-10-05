@@ -1,10 +1,9 @@
 ### Hi there 👋 I'm Naomi
-An engineering student with preliminary skills in Electronics and Software looking to leverage on those as I build more skill and provide innovative solutions.
+A graduate engineer with preliminary skills in Electronics and Software looking to leverage on those as I build more skill and provide innovative solutions.
 
 
-- 🔭 I’m currently studying Electrical and Electronics Engineering at University of Nairobi, Kenya.
-- 🌱 I’m currently learning Javascript, PHP
-- 👯 I’m looking to collaborate on any Frontend Web Dev projects and any other exciting projects 
+- 🌱 I’m currently learning and getting into Cybersecurity
+- 👯 I’m looking to collaborate on any exciting projects 
 
 - 📫 How to reach me: naomiwairimu2903@gmail.com
 
